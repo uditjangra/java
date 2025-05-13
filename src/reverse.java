@@ -5,6 +5,7 @@ public class reverse {
         int[] arr  = {1,2,3,4,5,2,32,5,3,12,3,};
         reverse(arr);
         System.out.println(Arrays.toString(arr));
+
     }
     public static void reverse(int[] arr) {
         int start;
